@@ -4,3 +4,5 @@ My name is Maruthi
 My college is Sridevi
 <br>
 I am from Koratagere
+<br>
+I am doing Diploma
